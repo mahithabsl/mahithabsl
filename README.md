@@ -3,8 +3,9 @@
 # Hey everyone 👋 ![](https://komarev.com/ghpvc/?username=mahithabsl&color=blue&style=flat-square&label=Profile+visitors)
 
 </div>
-
-**Languages and Tools:** 
+<div align="center"><b>Tools and Tech stack:</b> </div>
+<br/>
+<br/>
 
 <table align="center">
 <tr>
@@ -29,6 +30,9 @@
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></td>
 </tr>
 </table>
+
+<br/>
+<br/>
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
