@@ -16,6 +16,9 @@
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></td>
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></td>
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></td>
+</tr>
+<tr>
+
   <td align="center"><img width="60" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/JetBrains-PyCharm-900x0.png"></td>
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></td>
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></td>
