@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<table align="center">
+<table align="center" width="90%" >
 <tr>
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></td>
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></td>
