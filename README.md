@@ -7,9 +7,6 @@
 <p>
     
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mahithabsl&show_icons=true&include_all_commits=true&theme=dracula" alt="Mahitha's github stats" />
-</a>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
