@@ -6,7 +6,7 @@
 
 **Languages and Tools:** 
 
-<table>
+<table align="center">
 <tr>
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></td>
   <td align="center"><img width="60" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></td>
